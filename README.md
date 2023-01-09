@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JenishLunagariya.
 - 👀 I’m interested in data science and machine learning applications using python.
-- 🌱 I’m currently learning Petroleum Engineering At Pandit Deendayal Energy University.
+- 🌱 I have graduated in petroleum technology.
 - 📫 experienced in supervised learning models.
 
